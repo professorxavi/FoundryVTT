@@ -5,7 +5,7 @@
 	"author": "Psyny",
 	"version": "1.3.1",
 	"minimumCoreVersion": "0.6.0",
-  
+
 	"scripts": [
     "./scripts/settings.js",
     "./scripts/hotkeys.js",
@@ -13,13 +13,12 @@
     "./scripts/token-tooltip.js",
     "./scripts/chat-integration.js"
 	],
-  
+
 	"styles": [
     "./styles.css"
   ],
-  
-  "url": "https://github.com/psyny/FoundryVTT/tree/master/CozyPlayer",
-	"manifest": "https://raw.githubusercontent.com/psyny/FoundryVTT/master/CozyPlayer/cozy-player/module.json",
-	"download": "https://github.com/psyny/FoundryVTT/raw/master/CozyPlayer/cozy-player.zip"
-}
 
+  "url": "https://github.com/professorxavi/FoundryVTT/tree/master/CozyPlayer",
+	"manifest": "https://raw.githubusercontent.com/professorxavi/FoundryVTT/master/CozyPlayer/cozy-player/module.json",
+	"download": "https://github.com/professorxavi/FoundryVTT/raw/master/CozyPlayer/cozy-player.zip"
+}
